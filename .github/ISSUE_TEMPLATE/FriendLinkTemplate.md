@@ -1,9 +1,14 @@
 ---
-name: 友链模板
-about: 请根据指示规范填写友链格式。
+name: Friend Link Template
+about: Submit a friend link entry following the guidelines.
+title: add link
+labels: link wanted
+assignees: luoy-oss
+
 ---
 
-<!-- 请在下方代码块的双引号中填写 -->
+<!-- Fill in the quotes within the code block below -->
+
 ```json
 {
     "title": "",
@@ -16,15 +21,15 @@ about: 请根据指示规范填写友链格式。
 ```
 
 <!--
-"title": "站点名称",
-"screenshot": "站点预览图链接",
-"url": "站点链接",
-"avatar": "头像链接",
-"description": "站点描述",
-"keywords": "关键词，作为分组名"
+"title": "Website name",
+"screenshot": "Link to website screenshot",
+"url": "Website URL",
+"avatar": "Avatar URL",
+"description": "Website description",
+"keywords": "Keywords used for grouping"
 -->
 
-<!-- 示例 -->
+<!-- Example  -->
 
 <!--
 "title": "洛屿的小站",
